@@ -229,7 +229,7 @@ Happy Birthday!
 
 Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.
 
-Terima kasih udah sering main bareng sama aku seru seru an bereng aku pokoknyaa makasih yaa camiii. Kamu bener-bener bikin hari-hari aku jadi lebih seru dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
+Terima kasih udah sering main bareng sama aku seru seru an bereng aku pokoknyaa makasih yaa sayangkuu. Kamu bener-bener bikin hari-hari aku jadi lebih seru dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
 
 love you buat kamu sayangg bjirr aduh maluuu😆`;
     
@@ -266,7 +266,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Haii Sayangg,<br><br>Happy Birthday!<br><br>Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.<br><br>Terima kasih udah mau main bareng aku terus seru seruan bareng akuu pokoknya makasih dehh. Kamu bener-bener bikin hari-hari aku jadi lebih seruu dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).<br><br> love you buat kamu sayangg! bjirr aduh maluu😆`;
+            const fullMessage = `Haii Sayangg,<br><br>Happy Birthday!<br><br>Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.<br><br>Terima kasih udah mau main bareng aku terus seru seruan bareng akuu pokoknya makasih sayangg. Kamu bener-bener bikin hari-hari aku jadi lebih seruu dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).<br><br> love you buat kamu sayangg! bjirr aduh maluu😆`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
@@ -1192,3 +1192,4 @@ function handleContinueNavigation() {
     }
 
 }
+
