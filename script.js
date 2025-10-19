@@ -322,35 +322,35 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Meet 😆',
+            text: 'kerenn 😆',
             image: './image/photo1.png'
         },
         {
-            text: 'fishing together 😊',
+            text: 'keren2 😊',
             image: './image/photo2.png'
         },
         {
-            text: 'Adventure Time 🌟',
+            text: 'ducky 🌟',
             image: './image/photo3.png'
         },
         {
-            text: 'Mt.talang moment❤️',
+            text: 'cutee❤️',
             image: './image/photo4.png'
         },
         { 
-            text: 'Sweet Memories 🥰',
+            text: 'fishinggg 🥰',
             image: './image/photo5.png'
         },
         {
-            text: 'Laugh Together 😂',
+            text: 'nothing',
             image: './image/photo6.png'
         },
         {
-            text: 'Perfect Day ☀️',
+            text: 'nothing',
             image: './image/photo7.png'
         },
         {
-            text: 'Love Forever 💖',
+            text: 'nothing',
             image: './image/photo8.png'
         }
     ];
@@ -1190,4 +1190,5 @@ function handleContinueNavigation() {
         default:
             showScreen('main');
     }
+
 }
